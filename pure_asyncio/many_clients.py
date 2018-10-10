@@ -1,5 +1,4 @@
 import asyncio
-import random
 
 
 async def send_message_client(message, loop):
